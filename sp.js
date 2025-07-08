@@ -2,50 +2,50 @@ const songs = [
   {
     title: "Kiss Me Baby ",
     artist: "DJ Tillu",
-    cover: "C:/Users/mrudh/OneDrive/Desktop/Soptify/images/dj.jpg",
-    file:"C:/Users/mrudh/OneDrive/Desktop/Soptify/Music/Tillu Anna Dj Pedithe-320kbps.mp3"
+    cover: "./images/dj.jpg",
+    file:"./Music/Tillu Anna Dj Pedithe-320kbps.mp3"
   },
   {
     title: "Chamkeela Angeelesi ",
     artist: "Dasara",
-    cover: "C:/Users/mrudh/OneDrive/Desktop/Soptify/images/Dasara.jpg",
-    file: "C:/Users/mrudh/OneDrive/Desktop/Soptify/Music/Chamkeela Angeelesi-320kbps.mp3"
+    cover: "./images/Dasara.jpg",
+    file: "./Music/Chamkeela Angeelesi-320kbps.mp3"
   },
   {
     title: "Sooreede ",
     artist: "Salaar",
-    cover: "C:/Users/mrudh/OneDrive/Desktop/Soptify/images/salaar.jpg",
-    file: "C:/Users/mrudh/OneDrive/Desktop/Soptify/Music/Sooreede From Salaar Cease Fire - Telugu-320kbps.mp3"
+    cover: "./images/salaar.jpg",
+    file: "./Music/Sooreede From Salaar Cease Fire - Telugu-320kbps.mp3"
   },
   {
     title: "Raghunandana ",
     artist: "Hanuman",
-    cover: "C:/Users/mrudh/OneDrive/Desktop/Soptify/images/hanuman (1).jpg",
-    file: "C:/Users/mrudh/OneDrive/Desktop/Soptify/Music/Raghunandana From HanuMan Hindi-320kbps.mp3"
+    cover: "./images/hanuman (1).jpg",
+    file: "./Music/Raghunandana From HanuMan Hindi-320kbps.mp3"
   },
   {
     title: "Gaaju Bomma ",
     artist: "Hi Nanna",
-    cover: "C:/Users/mrudh/OneDrive/Desktop/Soptify/images/Hi.jpg",
-    file:  "C:/Users/mrudh/OneDrive/Desktop/Soptify/Music/Gaaju Bomma-320kbps (1).mp3"
+    cover: "./images/Hi.jpg",
+    file:  "./Music/Gaaju Bomma-320kbps (1).mp3"
   },
   {
     title: "Inthandham ",
     artist: "Sitha Ramam",
-    cover: "C:/Users/mrudh/OneDrive/Desktop/Soptify/images/sitha (1).jpg",
-    file: "C:/Users/mrudh/OneDrive/Desktop/Soptify/Music/Inthandham-320kbps.mp3"
+    cover: "./images/sitha (1).jpg",
+    file: "./Music/Inthandham-320kbps.mp3"
   },
   {
     title: "Kurchini Madthapetti ",
     artist: "Guntur karam",
-    cover: "C:/Users/mrudh/OneDrive/Desktop/Soptify/images/guntur (1).jpg",
-    file: "C:/Users/mrudh/OneDrive/Desktop/Soptify/Music/Madthapetti-320kbps.mp3"
+    cover: "./images/guntur (1).jpg",
+    file: "./Music/Madthapetti-320kbps.mp3"
   },
   {
     title: "Ramuloo Ramulaa ",
     artist: "Ala Vaikunthapurramuloo",
     cover: "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2019/10/20/Ala-Vaikunthapurramuloo-Movie-Ramuloo-Ramulaa-Song-Announcement-HD-Poster-and-Still-.jpg?fit=723%2C1024&quality=80&zoom=1&ssl=1",
-    file:  "C:/Users/mrudh/OneDrive/Desktop/Soptify/Music/Ramuloo Ramulaa-320kbps.mp3"
+    file:  "./Music/Ramuloo Ramulaa-320kbps.mp3"
   }
 ];
 const playlistDiv = document.getElementById("playlist");
